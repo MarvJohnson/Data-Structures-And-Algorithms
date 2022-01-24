@@ -5,9 +5,13 @@ Marvel Johnson
 
 </br>
 
+![Tests](https://github.com/menthus123/Data-Structures-And-Algorithms/actions/workflows/node.js.yml/badge.svg)
+
 ## Description:
 
 A space for me to learn and fiddle around with different data structures and algorithms.
+
+I'm using [Jest](https://jestjs.io/) for the unit tests, which can be ran by
 
 </br>
 
