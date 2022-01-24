@@ -13,33 +13,33 @@ A space for me to learn and fiddle around with different data structures and alg
 
 ## Data Structures:
 
-- ### <a href="#binary-tree">Binary Tree</a>
+### <a href="#binary-tree">Binary Tree</a>
 
-- ### <a href="#singly-linked-list">Single Linked List</a>
+### <a href="#singly-linked-list">Single Linked List</a>
 
-- ### <a href="#doubly-linked-list">Doubly Linked List</a>
+### <a href="#doubly-linked-list">Doubly Linked List</a>
 
-- ### <a href="#dynamic-array">Dynamic Array</a>
+### <a href="#dynamic-array">Dynamic Array</a>
 
-- ### <a href="#hash-table">Hash Table</a>
+### <a href="#hash-table">Hash Table</a>
 
 </br>
 
 ## Algorithms:
 
-- ### <a href="#binary-search">Binary Search</a>
+### <a href="#binary-search">Binary Search</a>
 
-- ### <a href="#bubble-sort">Bubble Sort</a>
+### <a href="#bubble-sort">Bubble Sort</a>
 
-- ### <a href="#insertion-sort">Insertion Sort</a>
+### <a href="#insertion-sort">Insertion Sort</a>
 
-- ### <a href="#bucket-sort">Bucket Sort</a>
+### <a href="#bucket-sort">Bucket Sort</a>
 
-- ### <a href="#radix-sort">Radix Sort</a>
+### <a href="#radix-sort">Radix Sort</a>
 
-- ### <a href="#merge-sort">Merge Sort</a>
+### <a href="#merge-sort">Merge Sort</a>
 
-- ### <a href="#quick-sort">Quick Sort</a>
+### <a href="#quick-sort">Quick Sort</a>
 
 </br>
 </br>
