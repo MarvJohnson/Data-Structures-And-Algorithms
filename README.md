@@ -9,8 +9,6 @@ Marvel Johnson
 
 A space for me to learn and fiddle around with different data structures and algorithms.
 
----
-
 </br>
 
 ## Data Structures:
@@ -24,6 +22,8 @@ A space for me to learn and fiddle around with different data structures and alg
 - ### <a href="#dynamic-array">Dynamic Array</a>
 
 - ### <a href="#hash-table">Hash Table</a>
+
+</br>
 
 ## Algorithms:
 
@@ -47,8 +47,6 @@ A space for me to learn and fiddle around with different data structures and alg
 ## [**Data Structures**](#data-structures)
 
 ## [Binary Tree](#binary-tree)
-
----
 
 A tree-like structure where the root is on top (R), branches are the 'edges' or 'nodes' that have children (B), and leaves are the 'nodes' that have no children (L).
 
@@ -75,8 +73,6 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Binary_tree">https://en.wikipe
 
 ## [Singly Linked List](#singly-linked-list)
 
----
-
 </br>
 
 -Coming Soon-
@@ -88,8 +84,6 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Linked_list#Singly_linked_list
 </br>
 
 ## [Doubly Linked List](#doubly-linked-list)
-
----
 
 </br>
 
@@ -103,8 +97,6 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Linked_list#Doubly_linked_list
 
 ## [Dynamic Array](#dynamic-array)
 
----
-
 </br>
 
 -Coming Soon-
@@ -116,8 +108,6 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Dynamic_array">https://en.wiki
 </br>
 
 ## [Hash Table](#hash-table)
-
----
 
 </br>
 
@@ -135,8 +125,6 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Hash_table">https://en.wikiped
 
 ## [Binary Search](#binary-search)
 
----
-
 </br>
 
 -Coming Soon-
@@ -148,8 +136,6 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Binary_search_algorithm">https
 </br>
 
 ## [Bubble Sort](#bubble-sort)
-
----
 
 </br>
 
@@ -163,8 +149,6 @@ Wikipedia: <a href="Bubble Sort">Bubble Sort
 
 ## [Insertion Sort](#insertion-sort)
 
----
-
 </br>
 
 -Coming Soon-
@@ -176,8 +160,6 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Insertion_sort">https://en.wik
 </br>
 
 ## [Bucket Sort](#bucket-sort)
-
----
 
 </br>
 
@@ -191,8 +173,6 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Bucket_sort">https://en.wikipe
 
 ## [Radix Sort](#radix-sort)
 
----
-
 </br>
 
 -Coming Soon-
@@ -205,8 +185,6 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Radix_sort">https://en.wikiped
 
 ## [Merge Sort](#merge-sort)
 
----
-
 </br>
 
 -Coming Soon-
@@ -218,8 +196,6 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Merge_sort">https://en.wikiped
 </br>
 
 ## [Quick Sort](#quick-sort)
-
----
 
 </br>
 
