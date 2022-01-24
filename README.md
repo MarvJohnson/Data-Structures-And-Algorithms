@@ -63,9 +63,30 @@ A tree-like structure where the root is on top (R), branches are the 'edges' or 
 
 I've implemented a number of functions that allow a binary tree to be manipulated:
 
+```javascript
+const tree = new BinaryTree(5);
+
+// Getters for the left and right properties of the tree's root node.
+tree.left;
+tree.right;
+
+// Performs a recursive dive into the tree, choosing a direction based on the delta between the input value and the current node's value.
+tree.insert(value);
+
+// Performs a recursive search for the input value, and removes it if it's found.
+tree.delete(value);
+
+// Returns a formatted string representation of the binary tree.
+tree.stringify();
+```
+
 </br>
 
-Wikipedia: <a href="https://en.wikipedia.org/wiki/Binary_tree">https://en.wikipedia.org/wiki/Binary_tree
+<details>
+  <summary>Resources</summary>
+
+- Wikipedia <a href="https://en.wikipedia.org/wiki/Binary_tree">https://en.wikipedia.org/wiki/Binary_tree
+</details>
 
 </br>
 
@@ -77,7 +98,11 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Binary_tree">https://en.wikipe
 
 </br>
 
-Wikipedia: <a href="https://en.wikipedia.org/wiki/Linked_list#Singly_linked_list">https://en.wikipedia.org/wiki/Linked_list#Singly_linked_list
+<details>
+  <summary>Resources</summary>
+
+- Wikipedia: <a href="https://en.wikipedia.org/wiki/Linked_list#Singly_linked_list">https://en.wikipedia.org/wiki/Linked_list#Singly_linked_list
+</details>
 
 </br>
 
@@ -89,7 +114,11 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Linked_list#Singly_linked_list
 
 </br>
 
-Wikipedia: <a href="https://en.wikipedia.org/wiki/Linked_list#Doubly_linked_list">https://en.wikipedia.org/wiki/Linked_list#Doubly_linked_list
+<details>
+  <summary>Resources</summary>
+
+- Wikipedia: <a href="https://en.wikipedia.org/wiki/Linked_list#Doubly_linked_list">https://en.wikipedia.org/wiki/Linked_list#Doubly_linked_list
+</details>
 
 </br>
 
@@ -101,7 +130,11 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Linked_list#Doubly_linked_list
 
 </br>
 
-Wikipedia: <a href="https://en.wikipedia.org/wiki/Dynamic_array">https://en.wikipedia.org/wiki/Dynamic_array
+<details>
+  <summary>Resources</summary>
+
+- Wikipedia: <a href="https://en.wikipedia.org/wiki/Dynamic_array">https://en.wikipedia.org/wiki/Dynamic_array
+</details>
 
 </br>
 
@@ -113,7 +146,11 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Dynamic_array">https://en.wiki
 
 </br>
 
-Wikipedia: <a href="https://en.wikipedia.org/wiki/Hash_table">https://en.wikipedia.org/wiki/Hash_table
+<details>
+  <summary>Resources</summary>
+
+- Wikipedia: <a href="https://en.wikipedia.org/wiki/Hash_table">https://en.wikipedia.org/wiki/Hash_table
+</details>
 
 </br>
 </br>
@@ -127,7 +164,11 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Hash_table">https://en.wikiped
 
 </br>
 
-Wikipedia: <a href="https://en.wikipedia.org/wiki/Binary_search_algorithm">https://en.wikipedia.org/wiki/Binary_search_algorithm
+<details>
+  <summary>Resources</summary>
+
+- Wikipedia: <a href="https://en.wikipedia.org/wiki/Binary_search_algorithm">https://en.wikipedia.org/wiki/Binary_search_algorithm
+</details>
 
 </br>
 
@@ -139,7 +180,11 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Binary_search_algorithm">https
 
 </br>
 
-Wikipedia: <a href="Bubble Sort">Bubble Sort
+<details>
+  <summary>Resources</summary>
+
+- Wikipedia: <a href="https://en.wikipedia.org/wiki/Bubble_sort">https://en.wikipedia.org/wiki/Bubble_sort
+</details>
 
 </br>
 
@@ -151,7 +196,11 @@ Wikipedia: <a href="Bubble Sort">Bubble Sort
 
 </br>
 
-Wikipedia: <a href="https://en.wikipedia.org/wiki/Insertion_sort">https://en.wikipedia.org/wiki/Insertion_sort
+<details>
+  <summary>Resources</summary>
+
+- Wikipedia: <a href="https://en.wikipedia.org/wiki/Insertion_sort">https://en.wikipedia.org/wiki/Insertion_sort
+</details>
 
 </br>
 
@@ -163,7 +212,12 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Insertion_sort">https://en.wik
 
 </br>
 
+<details>
+  <summary>Resources</summary>
+
 Wikipedia: <a href="https://en.wikipedia.org/wiki/Bucket_sort">https://en.wikipedia.org/wiki/Bucket_sort
+
+</details>
 
 </br>
 
@@ -175,7 +229,11 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Bucket_sort">https://en.wikipe
 
 </br>
 
-Wikipedia: <a href="https://en.wikipedia.org/wiki/Radix_sort">https://en.wikipedia.org/wiki/Radix_sort
+<details>
+  <summary>Resources</summary>
+
+- Wikipedia: <a href="https://en.wikipedia.org/wiki/Radix_sort">https://en.wikipedia.org/wiki/Radix_sort
+</details>
 
 </br>
 
@@ -187,7 +245,11 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Radix_sort">https://en.wikiped
 
 </br>
 
-Wikipedia: <a href="https://en.wikipedia.org/wiki/Merge_sort">https://en.wikipedia.org/wiki/Merge_sort
+<details>
+  <summary>Resources</summary>
+
+- Wikipedia: <a href="https://en.wikipedia.org/wiki/Merge_sort">https://en.wikipedia.org/wiki/Merge_sort
+</details>
 
 </br>
 
@@ -199,4 +261,8 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Merge_sort">https://en.wikiped
 
 </br>
 
-Wikipedia: <a href="https://en.wikipedia.org/wiki/Quicksort">https://en.wikipedia.org/wiki/Quicksort
+<details>
+  <summary>Resources</summary>
+
+- Wikipedia: <a href="https://en.wikipedia.org/wiki/Quicksort">https://en.wikipedia.org/wiki/Quicksort
+</details>
