@@ -11,7 +11,7 @@ Marvel Johnson
 
 A space for me to learn and fiddle around with different data structures and algorithms.
 
-I'm using [Jest](https://jestjs.io/) for the unit tests, which can be ran by
+I'm using [Jest](https://jestjs.io/) for the unit tests, which can be ran using the `npm test` command.
 
 </br>
 
