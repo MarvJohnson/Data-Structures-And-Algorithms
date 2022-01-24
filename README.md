@@ -63,20 +63,41 @@ A tree-like structure where the root is on top (R), branches are the 'edges' or 
 
 I've implemented a number of functions that allow a binary tree to be manipulated:
 
-```javascript
-const tree = new BinaryTree(5);
+The constructor takes one argument that defines what value the root node will have. This is important, because the placement of insertions depends upon whether the input value is greater than or less than the value of the root node.
 
-// Getters for the left and right properties of the tree's root node.
+```javascript
+const tree = new BinaryTree(value);
+```
+
+Convenience getters for accessing properties on the root node.
+
+```javascript
+tree.value;
 tree.left;
 tree.right;
+```
 
-// Performs a recursive dive into the tree, choosing a direction based on the delta between the input value and the current node's value.
+Performs a recursive dive into the tree, choosing a direction based on the delta between the input value and the current node's value.
+
+```javascript
 tree.insert(value);
+```
 
-// Performs a recursive search for the input value, and removes it if it's found.
+Performs a recursive search for the input value, and removes it if it's found.
+
+```javascript
 tree.delete(value);
+```
 
-// Returns a formatted string representation of the binary tree.
+Recursively swaps the left and right properties of each node in the tree, starting from the root.
+
+```javascript
+tree.reverse();
+```
+
+Returns a formatted string representation of the binary tree.
+
+```javascript
 tree.stringify();
 ```
 

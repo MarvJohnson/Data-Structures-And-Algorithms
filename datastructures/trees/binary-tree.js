@@ -11,6 +11,10 @@ class BinaryTree {
     this.root = new Node(rootValue);
   }
 
+  get value() {
+    return this.root.value;
+  }
+
   get left() {
     return this.root.left;
   }
