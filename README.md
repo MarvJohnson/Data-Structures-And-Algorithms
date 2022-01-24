@@ -44,7 +44,7 @@ A space for me to learn and fiddle around with different data structures and alg
 </br>
 </br>
 
-## [Binary Tree](#binary-tree)
+## [Binary Tree](#binary-tree-1)
 
 A tree-like structure where the root is on top (R), branches are the 'edges' or 'nodes' that have children (B), and leaves are the 'nodes' that have no children (L).
 
@@ -69,7 +69,7 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Binary_tree">https://en.wikipe
 
 </br>
 
-## [Singly Linked List](#singly-linked-list)
+## [Singly Linked List](#singly-linked-list-1)
 
 </br>
 
@@ -81,7 +81,7 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Linked_list#Singly_linked_list
 
 </br>
 
-## [Doubly Linked List](#doubly-linked-list)
+## [Doubly Linked List](#doubly-linked-list-1)
 
 </br>
 
@@ -93,7 +93,7 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Linked_list#Doubly_linked_list
 
 </br>
 
-## [Dynamic Array](#dynamic-array)
+## [Dynamic Array](#dynamic-array-1)
 
 </br>
 
@@ -105,7 +105,7 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Dynamic_array">https://en.wiki
 
 </br>
 
-## [Hash Table](#hash-table)
+## [Hash Table](#hash-table-1)
 
 </br>
 
@@ -119,7 +119,7 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Hash_table">https://en.wikiped
 </br>
 </br>
 
-## [Binary Search](#binary-search)
+## [Binary Search](#binary-search-1)
 
 </br>
 
@@ -131,7 +131,7 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Binary_search_algorithm">https
 
 </br>
 
-## [Bubble Sort](#bubble-sort)
+## [Bubble Sort](#bubble-sort-1)
 
 </br>
 
@@ -143,7 +143,7 @@ Wikipedia: <a href="Bubble Sort">Bubble Sort
 
 </br>
 
-## [Insertion Sort](#insertion-sort)
+## [Insertion Sort](#insertion-sort-1)
 
 </br>
 
@@ -155,7 +155,7 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Insertion_sort">https://en.wik
 
 </br>
 
-## [Bucket Sort](#bucket-sort)
+## [Bucket Sort](#bucket-sort-1)
 
 </br>
 
@@ -167,7 +167,7 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Bucket_sort">https://en.wikipe
 
 </br>
 
-## [Radix Sort](#radix-sort)
+## [Radix Sort](#radix-sort-1)
 
 </br>
 
@@ -179,7 +179,7 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Radix_sort">https://en.wikiped
 
 </br>
 
-## [Merge Sort](#merge-sort)
+## [Merge Sort](#merge-sort-1)
 
 </br>
 
@@ -191,7 +191,7 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Merge_sort">https://en.wikiped
 
 </br>
 
-## [Quick Sort](#quick-sort)
+## [Quick Sort](#quick-sort-1)
 
 </br>
 
