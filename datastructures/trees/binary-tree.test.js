@@ -5,6 +5,26 @@ test('Assigns the correct value to the root node', () => {
   expect(tree.root.value).toBe(5);
 });
 
+describe('Implements getters for root node', () => {
+  test('Has value getter', () => {
+    const tree = new BinaryTree(5);
+
+    expect(tree.value).toBeDefined();
+  });
+
+  test('Has left getter', () => {
+    const tree = new BinaryTree(5);
+
+    expect(tree.left).toBeDefined();
+  });
+
+  test('Has right getter', () => {
+    const tree = new BinaryTree(5);
+
+    expect(tree.right).toBeDefined();
+  });
+});
+
 describe('Implements insert functionality', () => {
   test('Has insert function', () => {
     const tree = new BinaryTree(5);
