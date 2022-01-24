@@ -44,8 +44,6 @@ A space for me to learn and fiddle around with different data structures and alg
 </br>
 </br>
 
-## [**Data Structures**](#data-structures)
-
 ## [Binary Tree](#binary-tree)
 
 A tree-like structure where the root is on top (R), branches are the 'edges' or 'nodes' that have children (B), and leaves are the 'nodes' that have no children (L).
@@ -120,8 +118,6 @@ Wikipedia: <a href="https://en.wikipedia.org/wiki/Hash_table">https://en.wikiped
 </br>
 </br>
 </br>
-
-## [**Algorithms**](#algorithms)
 
 ## [Binary Search](#binary-search)
 
