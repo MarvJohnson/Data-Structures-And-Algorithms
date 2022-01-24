@@ -54,12 +54,36 @@ A tree-like structure where the root is on top (R), branches are the 'edges' or 
 
 </br>
 
-<details>
-  <summary>Visual Example</summary>
+The examples below were created with the `stringify` function built into the BinaryTree class (with the exception of the first example).
 
-    ___R___   ___5___
-    _B___B_   _3___7_
-    L_L_L_L   X_4_6_X
+<details>
+  <summary>Visual Example 1</summary>
+
+    ___R___
+    _B___B_
+    L_L_L_L
+
+</details>
+
+<details>
+  <summary>Visual Example 2</summary>
+
+    _______5_______
+    ___0_______7___
+    _X___2___X___X_
+    X_X_X_4_X_X_X_X
+
+</details>
+
+<details>
+  <summary>Visual Example 3</summary>
+
+    _______________________________5_______________________________
+    _______________1_______________________________5_______________
+    _______X_______________4_______________X_______________6_______
+    ___X_______X_______X_______X_______X_______X_______X_______7___
+    _X___X___X___X___X___X___X___X___X___X___X___X___X___X___X___9_
+    X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_X_8_X
 
 </details>
 
