@@ -86,7 +86,7 @@ describe('Implements delete functionality', () => {
   });
 });
 
-describe('Implement reverse functionality', () => {
+describe('Implements reverse functionality', () => {
   test('Has reverse function', () => {
     const tree = new BinaryTree(5);
 
@@ -109,7 +109,7 @@ describe('Implement reverse functionality', () => {
   });
 });
 
-describe('Implement stringification functionality', () => {
+describe('Implements stringification functionality', () => {
   test('Has stringify function', () => {
     const tree = new BinaryTree(5);
 

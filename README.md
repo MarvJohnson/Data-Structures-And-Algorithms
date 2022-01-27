@@ -143,7 +143,68 @@ tree.stringify();
 
 </br>
 
--Coming Soon-
+A unidirectional chain of _nodes_ where each _node_ contains a value and a pointer to the next node.
+
+The examples below were created with the stringify function built into the SinglyLinkedList class.
+
+<details>
+  <summary>Visual Example 1</summary>
+
+    1
+
+</details>
+
+<details>
+  <summary>Visual Example 2</summary>
+
+    1 -> 2 -> -44 -> 12
+
+</details>
+
+<details>
+  <summary>Visual Example 3</summary>
+
+    852 -> 22 -> -50 -> -10 -> 73 -> 13 -> 98 -> 9
+
+</details>
+
+</br>
+
+The SinglyLinkedList has a parameterless constructor
+
+```javascript
+const singlyLinkedList = new SinglyLinkedList();
+```
+
+The add function allows you to append nodes to the end of the chain, replacing the tail with the newly created node
+
+```javascript
+singlyLinkedList.add(value);
+```
+
+The removeAt function accepts an input that represents the index belonging to the node you'd like to delete
+
+```javascript
+singlyLinkedList.removeAt(index);
+```
+
+You may use the getAt function to retrieve a node at a given index
+
+```javascript
+singlyLinkedList.getAt(index);
+```
+
+The reverse function will flip the pointer for each node in the chain with a time and space complexity of O(n) and O(1) respectively
+
+```javascript
+singlyLinkedList.reverse();
+```
+
+You can produce a string representation of the SinglyLinkedList with the stringify method (check the visual examples above for what to expect as an output)
+
+```javascript
+singlyLinkedList.stringify();
+```
 
 </br>
 
